@@ -1,0 +1,19 @@
+{
+    "name": "bower2npm",
+    "version": "1.0.0",
+    "description": "Bower To NPM migrator",
+    "main": "index.js",
+    "repository": "git@github.com:Addvilz/bower2npm.git",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Addvilz <mrtreinis@gmail.com>",
+    "license": "Apache-2.0",
+    "dependencies": {
+        "bower": "^1.7.9",
+        "request": "^2.76.0"
+    },
+    "bin": {
+        "bower2npm": "./index.js"
+    }
+}
