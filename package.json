@@ -1,6 +1,6 @@
 {
     "name": "bower2npm",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Bower To NPM migrator",
     "main": "index.js",
     "repository": "git@github.com:Addvilz/bower2npm.git",
